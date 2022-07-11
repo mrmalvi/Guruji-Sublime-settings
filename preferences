@@ -41,7 +41,7 @@
 		".bundle"
 	],
 	"font_face": "Monaco",
-	"font_size": 15,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -57,21 +57,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"vintage_start_in_command_mode": false,
-	"added_words":
-	[
-		"Kamlesh",
-		"http",
-		"params",
-		"eq",
-		"jaipur",
-		"Rajasthan",
-		"subspecialty",
-		"api",
-		"datetime",
-		"bigint",
-		"charset",
-	],
-	"theme": "Default.sublime-theme",
+	"vintage_start_in_command_mode": false
 }
-
