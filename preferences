@@ -1,0 +1,77 @@
+{
+	"bold_folder_labels": true,
+	"default_line_ending": "LF",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.sublime-project",
+		"*.log",
+		".byebug_history"
+	],
+	"folder_exclude_patterns":
+	[
+		"doc",
+		"log",
+		"tmp",
+		"public/system",
+		".sass-cache",
+		"tmp",
+		".git",
+		".bundle"
+	],
+	"font_face": "Monaco",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		120
+	],
+	"spell_check": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"vintage_start_in_command_mode": false,
+	"added_words":
+	[
+		"Kamlesh",
+		"http",
+		"params",
+		"eq",
+		"jaipur",
+		"Rajasthan",
+		"subspecialty",
+		"api",
+		"datetime",
+		"bigint",
+		"charset",
+	],
+	"theme": "Default.sublime-theme",
+}
+
